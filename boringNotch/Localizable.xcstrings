@@ -20,9 +20,6 @@
     "%.1fs" : {
 
     },
-    "%@" : {
-
-    },
     "%d%%" : {
 
     },
@@ -89,9 +86,6 @@
 
     },
     "AirDrop service not available" : {
-
-    },
-    "All-day" : {
 
     },
     "Always hide in fullscreen" : {
@@ -181,6 +175,9 @@
 
     },
     "Cancel" : {
+
+    },
+    "Catalina" : {
 
     },
     "Charging" : {
@@ -337,9 +334,6 @@
 
     },
     "Enhance your experience with HUDs" : {
-
-    },
-    "Enjoy your free time!" : {
 
     },
     "Error" : {
@@ -542,9 +536,6 @@
     "No custom visualizer" : {
 
     },
-    "No events today" : {
-
-    },
     "No excluded apps" : {
 
     },
@@ -693,6 +684,9 @@
 
     },
     "Selected animation" : {
+
+    },
+    "Sequoia" : {
 
     },
     "Settings" : {
@@ -859,6 +853,9 @@
 
     },
     "What's New" : {
+
+    },
+    "Windows" : {
 
     }
   },

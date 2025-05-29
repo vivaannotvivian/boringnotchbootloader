@@ -40,6 +40,7 @@ struct BoringHeader: View {
 
             HStack(spacing: 4) {
                 if vm.notchState == .open {
+
                     if Defaults[.settingsIconInNotch] {
                         SettingsLink(label: {
                             Capsule()
